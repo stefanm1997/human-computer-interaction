@@ -1,0 +1,18 @@
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\Sport Quiz Game.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\App.g.cs
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\Sport Quiz Game_MarkupCompile.cache
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\Sport Quiz Game_MarkupCompile.lref
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\bin\Debug\Sport Quiz Game.exe.config
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\bin\Debug\Sport Quiz Game.exe
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\bin\Debug\Sport Quiz Game.pdb
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\Sport Quiz Game.g.resources
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\Sport_Quiz_Game.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\Sport Quiz Game.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\Sport Quiz Game.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\Sport Quiz Game.exe
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\Sport Quiz Game.pdb
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\GameWindow.g.cs
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\GameWindow.baml
+C:\Users\Korisnik\source\repos\Sport Quiz Game\Sport Quiz Game\obj\Debug\Sport Quiz Game_Content.g.cs
